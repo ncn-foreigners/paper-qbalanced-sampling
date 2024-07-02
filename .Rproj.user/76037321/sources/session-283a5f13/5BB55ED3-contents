@@ -1,4 +1,4 @@
-# Repo for the paper "Quantile balanced sampling"
+# Repo for the paper "A note on quantile balanced sampling"
 
 ## Structure of the repository
 
