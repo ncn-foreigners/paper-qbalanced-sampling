@@ -2,7 +2,9 @@
 
 ## Structure of the repository
 
-+ `codes/` 
++ `codes/`
+    + `1-main-sim.R` -- simulation from the main paper
+    + `2-appendix-sim.R` -- simulation from the appendix of the paper
 + `figures/`
 + `paper/`
 
