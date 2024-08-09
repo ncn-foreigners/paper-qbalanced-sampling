@@ -5,8 +5,8 @@
 + `codes/`
     + `1-main-sim.R` -- simulation from the main paper
     + `2-appendix-sim.R` -- simulation from the appendix of the paper
-+ `figures/`
-+ `paper/`
++ `figures/` -- figures for the paper
++ `paper/` -- [the main manuscript](paper/paper-unblinded.pdf)
 
 
 ## Acknowledgements
